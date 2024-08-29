@@ -14,7 +14,7 @@ param accessTier string = 'Hot'
 param dnsEndpointType string = 'Standard'
 
 @allowed([ 'Enabled', 'Disabled' ])
-param publicNetworkAccess string = 'Disabled'
+param publicNetworkAccess string = 'Enabled'
 
 @description('Array of objects with fields principalId, principalType, roleDefinitionId')
 param roleAssignments array = []
@@ -22,8 +22,8 @@ param roleAssignments array = []
 param tags object = {}
 param allowBlobPublicAccess bool = false
 param allowCrossTenantReplication bool = true
-param allowSharedKeyAccess bool = false
-param defaultToOAuthAuthentication bool = false
+param allowSharedKeyAccess bool = true
+param defaultToOAuthAuthentication bool = true
 param deleteRetentionPolicy object = {}
 param kind string = 'StorageV2'
 param minimumTlsVersion string = 'TLS1_2'

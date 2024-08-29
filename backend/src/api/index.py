@@ -161,7 +161,7 @@ async def setup_indexing_pipeline(
     return BaseResponse(status="Indexing job scheduled")
 
 
-async def _start_indexing_pipeline(index_name: str):
+async def start_indexing_pipeline(index_name: str):
     # get sanitized name
     sanitized_index_name = sanitize_name(index_name)
 

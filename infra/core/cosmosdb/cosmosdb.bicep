@@ -8,7 +8,7 @@ param cosmosDbName string
 param location string = resourceGroup().location
 
 @allowed([ 'Enabled', 'Disabled' ])
-param publicNetworkAccess string = 'Disabled'
+param publicNetworkAccess string = 'Enabled'
 
 @description('Role definition id to assign to the principal. Learn more: https://learn.microsoft.com/en-us/azure/cosmos-db/how-to-setup-rbac')
 @allowed([
