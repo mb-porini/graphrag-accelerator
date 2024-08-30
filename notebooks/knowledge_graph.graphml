@@ -1,0 +1,390 @@
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key id="d5" for="edge" attr.name="source_id" attr.type="string" />
+  <key id="d4" for="edge" attr.name="description" attr.type="string" />
+  <key id="d3" for="edge" attr.name="weight" attr.type="double" />
+  <key id="d2" for="node" attr.name="source_id" attr.type="string" />
+  <key id="d1" for="node" attr.name="description" attr.type="string" />
+  <key id="d0" for="node" attr.name="type" attr.type="string" />
+  <graph edgedefault="undirected">
+    <node id="&quot;ALASKA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">Alaska, the 49th state of the U.S., is located on the northwest extremity of North America. It is the largest U.S. state by area and is the third-least populous and the most sparsely populated. Known for crossing into the eastern hemisphere with the Aleutian Islands, Alaska has a unique geographical position. It has a rich history as a former Russian colony before being sold to the U.S. in 1867. Alaska is renowned for its abundant natural resources and significant indigenous population, which is proportionally the second highest in the U.S. after Hawaii. The state also has a libertarian-leaning political culture, reflecting its distinctive social and political environment.</data>
+      <data key="d2">0900a735955381b343f06177c0f84805,488a452a1303fc728e5006bc265477a4,661da5ec697ffd737edca31a4aa13c54,997eaa74c8fabd05b57b60fd98aa8bc2</data>
+    </node>
+    <node id="&quot;UNITED STATES&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">The United States is a country located in North America. It expanded its territory by acquiring California from Mexico in 1848 following the Mexican-American War. Additionally, Alaska is recognized as one of its states, further emphasizing the geographical and political breadth of the country.</data>
+      <data key="d2">0900a735955381b343f06177c0f84805,6a11c807ab7965c11434da540a73a415</data>
+    </node>
+    <node id="&quot;HAWAII&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">Hawaii is recognized for having the highest proportion of Indigenous population in the United States. It is also noted as one of the non-contiguous U.S. states, similar to Alaska.</data>
+      <data key="d2">0900a735955381b343f06177c0f84805,488a452a1303fc728e5006bc265477a4</data>
+    </node>
+    <node id="&quot;YUKON&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Yukon is a Canadian territory that borders Alaska to the east."</data>
+      <data key="d2">0900a735955381b343f06177c0f84805</data>
+    </node>
+    <node id="&quot;BRITISH COLUMBIA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"British Columbia is a province in Canada that also borders Alaska to the east."</data>
+      <data key="d2">0900a735955381b343f06177c0f84805</data>
+    </node>
+    <node id="&quot;RUSSIA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Russia is mentioned in relation to Alaska as they share a western maritime border in the Bering Strait."</data>
+      <data key="d2">0900a735955381b343f06177c0f84805</data>
+    </node>
+    <node id="&quot;CHUKOTKA AUTONOMOUS OKRUG&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Chukotka Autonomous Okrug is a part of Russia that shares a maritime border with Alaska."</data>
+      <data key="d2">0900a735955381b343f06177c0f84805</data>
+    </node>
+    <node id="&quot;CHUKCHI SEA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Chukchi Sea is part of the Arctic Ocean, located to the north of Alaska."</data>
+      <data key="d2">0900a735955381b343f06177c0f84805</data>
+    </node>
+    <node id="&quot;BEAUFORT SEA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Beaufort Sea is another part of the Arctic Ocean, lying to the north of Alaska."</data>
+      <data key="d2">0900a735955381b343f06177c0f84805</data>
+    </node>
+    <node id="&quot;PACIFIC OCEAN&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"The Pacific Ocean is mentioned as lying to the south of Alaska."</data>
+      <data key="d2">0900a735955381b343f06177c0f84805</data>
+    </node>
+    <node id="&quot;TEXAS&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Texas is one of the largest states in the United States, mentioned in comparison to Alaska's size."</data>
+      <data key="d2">997eaa74c8fabd05b57b60fd98aa8bc2</data>
+    </node>
+    <node id="&quot;CALIFORNIA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">California is a state in the Western United States, located on the American Pacific Coast. It is renowned for its diverse climate and geography, which includes beaches, forests, and mountains. As the most populous U.S. state and the third-largest by area, California plays a significant role in agriculture, technology, entertainment, and global trade, making it the largest economy of any U.S. state. Its economic contributions are influential both nationally and globally. California's cultural influence is also notable, making it a key player in various sectors compared to other states, including Alaska.</data>
+      <data key="d2">04335e3210405a0e5e7e7aee14a12059,50d75f737cb050452bd495a77d9436b5,6a11c807ab7965c11434da540a73a415,997eaa74c8fabd05b57b60fd98aa8bc2</data>
+    </node>
+    <node id="&quot;MONTANA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Montana is one of the largest states in the United States, compared in size to Alaska."</data>
+      <data key="d2">997eaa74c8fabd05b57b60fd98aa8bc2</data>
+    </node>
+    <node id="&quot;JUNEAU&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Juneau is the state capital of Alaska and one of the largest cities in the United States by area."</data>
+      <data key="d2">997eaa74c8fabd05b57b60fd98aa8bc2</data>
+    </node>
+    <node id="&quot;ANCHORAGE&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Anchorage is the most populous city in Alaska, with about half of the state's residents living in its metropolitan area."</data>
+      <data key="d2">997eaa74c8fabd05b57b60fd98aa8bc2</data>
+    </node>
+    <node id="&quot;NORTHERN CANADA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Northern Canada is a region in Canada, mentioned in comparison to Alaska's population."</data>
+      <data key="d2">997eaa74c8fabd05b57b60fd98aa8bc2</data>
+    </node>
+    <node id="&quot;GREENLAND&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Greenland is the world's largest island, mentioned in comparison to Alaska's population."</data>
+      <data key="d2">997eaa74c8fabd05b57b60fd98aa8bc2</data>
+    </node>
+    <node id="&quot;RUSSIAN EMPIRE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Russian Empire was the first to colonize Alaska, establishing Russian America which spanned most of the current state."</data>
+      <data key="d2">997eaa74c8fabd05b57b60fd98aa8bc2</data>
+    </node>
+    <node id="&quot;RUSSIAN AMERICA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Russian America" refers to the historical period when the region now known as Alaska was under the control of the Russian Empire. This territory, which spanned most of the current state of Alaska, promoted a native Alaskan Creole population during its period of governance.</data>
+      <data key="d2">661da5ec697ffd737edca31a4aa13c54,997eaa74c8fabd05b57b60fd98aa8bc2</data>
+    </node>
+    <node id="&quot;U.S.&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">The United States, often referred to as the U.S., purchased Alaska from the Russian Empire in 1867. It later admitted Alaska as the 49th state.</data>
+      <data key="d2">661da5ec697ffd737edca31a4aa13c54,997eaa74c8fabd05b57b60fd98aa8bc2</data>
+    </node>
+    <node id="&quot;U.S. ARMED FORCES&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"U.S. Armed Forces have bases in Alaska, contributing to the state's economy."</data>
+      <data key="d2">661da5ec697ffd737edca31a4aa13c54</data>
+    </node>
+    <node id="&quot;REPUBLICAN PARTY&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Republican Party is supported generally in national elections by the state of Alaska."</data>
+      <data key="d2">488a452a1303fc728e5006bc265477a4</data>
+    </node>
+    <node id="&quot;OREGON&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Oregon is a state in the Pacific Northwest region of the United States, bordering California to the south."</data>
+      <data key="d2">6a11c807ab7965c11434da540a73a415</data>
+    </node>
+    <node id="&quot;NEVADA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Nevada is a state in the Western United States, bordering California to the west."</data>
+      <data key="d2">6a11c807ab7965c11434da540a73a415</data>
+    </node>
+    <node id="&quot;ARIZONA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Arizona is a state in the Southwestern United States, bordering California to the west."</data>
+      <data key="d2">6a11c807ab7965c11434da540a73a415</data>
+    </node>
+    <node id="&quot;BAJA CALIFORNIA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Baja California is a Mexican state on the Baja California Peninsula, bordering the U.S. state of California to the north."</data>
+      <data key="d2">6a11c807ab7965c11434da540a73a415</data>
+    </node>
+    <node id="&quot;LOS ANGELES&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">Los Angeles is a major city in California, renowned for being the most populous city in the state and the second-most populous in the United States. It is noted for having the busiest port in the country, making it a central hub for the global supply chain. Additionally, Los Angeles is a pivotal center for the U.S. film industry, contributing significantly to its global prominence in entertainment.</data>
+      <data key="d2">04335e3210405a0e5e7e7aee14a12059,50d75f737cb050452bd495a77d9436b5,6a11c807ab7965c11434da540a73a415</data>
+    </node>
+    <node id="&quot;SAN FRANCISCO BAY AREA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">The San Francisco Bay Area, located in Northern California, is one of the most populous urban regions in the United States. It ranks as the fifth-most populous urban region in the country, boasting a population of 10 million residents.</data>
+      <data key="d2">04335e3210405a0e5e7e7aee14a12059,6a11c807ab7965c11434da540a73a415</data>
+    </node>
+    <node id="&quot;SACRAMENTO&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">Sacramento is the capital city of California, located in the northern part of the state.</data>
+      <data key="d2">04335e3210405a0e5e7e7aee14a12059,6a11c807ab7965c11434da540a73a415</data>
+    </node>
+    <node id="&quot;SPANISH EMPIRE&quot;">
+      <data key="d0">"ORGANIZATION"</data>
+      <data key="d1">"The Spanish Empire was involved in the early exploration and colonization of California during the 16th and 17th centuries."</data>
+      <data key="d2">6a11c807ab7965c11434da540a73a415</data>
+    </node>
+    <node id="&quot;MEXICO&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Mexico is a country in North America that included California as a part before ceding it to the United States after the Mexican&#8211;American War."</data>
+      <data key="d2">6a11c807ab7965c11434da540a73a415</data>
+    </node>
+    <node id="&quot;CALIFORNIA GOLD RUSH&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"The California Gold Rush was a significant event starting in 1848 that led to major social and demographic changes in California."</data>
+      <data key="d2">6a11c807ab7965c11434da540a73a415</data>
+    </node>
+    <node id="&quot;GREATER LOS ANGELES&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">Greater Los Angeles is a region in California recognized as the second-most populous urban area in the United States, housing approximately 19 million residents. It is famously known as a central hub of the U.S. film industry.</data>
+      <data key="d2">04335e3210405a0e5e7e7aee14a12059,50d75f737cb050452bd495a77d9436b5</data>
+    </node>
+    <node id="&quot;SIERRA NEVADA&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Sierra Nevada is a mountain range in Eastern California."</data>
+      <data key="d2">04335e3210405a0e5e7e7aee14a12059</data>
+    </node>
+    <node id="&quot;MOJAVE DESERT&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Mojave Desert is located in the southeast of California and is known for its arid desert conditions."</data>
+      <data key="d2">04335e3210405a0e5e7e7aee14a12059</data>
+    </node>
+    <node id="&quot;CENTRAL VALLEY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Central Valley is a large, fertile agricultural area in the center of California."</data>
+      <data key="d2">04335e3210405a0e5e7e7aee14a12059</data>
+    </node>
+    <node id="&quot;CALIFORNIA GENOCIDE&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"California Genocide refers to the historical event involving the persecution and population reduction of indigenous peoples in California."</data>
+      <data key="d2">04335e3210405a0e5e7e7aee14a12059</data>
+    </node>
+    <node id="&quot;COMPROMISE OF 1850&quot;">
+      <data key="d0">"EVENT"</data>
+      <data key="d1">"Compromise of 1850 is an event where California was admitted as the 31st state of the U.S. as a free state."</data>
+      <data key="d2">04335e3210405a0e5e7e7aee14a12059</data>
+    </node>
+    <node id="&quot;HOLLYWOOD&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"Hollywood is a neighborhood in Los Angeles, California, recognized globally as the oldest and one of the largest film industries, profoundly influencing worldwide entertainment."</data>
+      <data key="d2">50d75f737cb050452bd495a77d9436b5</data>
+    </node>
+    <node id="&quot;SAN FRANCISCO BAY&quot;">
+      <data key="d0">"GEO"</data>
+      <data key="d1">"San Francisco Bay is a region in California known as a center of the global technology industry."</data>
+      <data key="d2">50d75f737cb050452bd495a77d9436b5</data>
+    </node>
+    <edge source="&quot;ALASKA&quot;" target="&quot;UNITED STATES&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Alaska is a state within the United States, indicating a political and geographical relationship."</data>
+      <data key="d5">0900a735955381b343f06177c0f84805</data>
+    </edge>
+    <edge source="&quot;ALASKA&quot;" target="&quot;HAWAII&quot;">
+      <data key="d3">2.0</data>
+      <data key="d4">Alaska and Hawaii are both non-contiguous states of the United States, each sharing a unique geographical status that sets them apart from the contiguous states. These states are notable for their high proportions of Indigenous populations, with Hawaii having the highest proportion and Alaska having the second highest. This demographic aspect highlights the rich cultural heritage and diversity within each state.</data>
+      <data key="d5">0900a735955381b343f06177c0f84805,488a452a1303fc728e5006bc265477a4</data>
+    </edge>
+    <edge source="&quot;ALASKA&quot;" target="&quot;YUKON&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Alaska borders the Yukon territory of Canada to the east."</data>
+      <data key="d5">0900a735955381b343f06177c0f84805</data>
+    </edge>
+    <edge source="&quot;ALASKA&quot;" target="&quot;BRITISH COLUMBIA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Alaska borders the province of British Columbia in Canada to the east."</data>
+      <data key="d5">0900a735955381b343f06177c0f84805</data>
+    </edge>
+    <edge source="&quot;ALASKA&quot;" target="&quot;RUSSIA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Alaska shares a western maritime border with Russia in the Bering Strait."</data>
+      <data key="d5">0900a735955381b343f06177c0f84805</data>
+    </edge>
+    <edge source="&quot;ALASKA&quot;" target="&quot;CHUKOTKA AUTONOMOUS OKRUG&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Alaska shares a maritime border with Chukotka Autonomous Okrug of Russia."</data>
+      <data key="d5">0900a735955381b343f06177c0f84805</data>
+    </edge>
+    <edge source="&quot;ALASKA&quot;" target="&quot;CHUKCHI SEA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Chukchi Sea is located to the north of Alaska."</data>
+      <data key="d5">0900a735955381b343f06177c0f84805</data>
+    </edge>
+    <edge source="&quot;ALASKA&quot;" target="&quot;BEAUFORT SEA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Beaufort Sea is located to the north of Alaska."</data>
+      <data key="d5">0900a735955381b343f06177c0f84805</data>
+    </edge>
+    <edge source="&quot;ALASKA&quot;" target="&quot;PACIFIC OCEAN&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The Pacific Ocean lies to the south of Alaska."</data>
+      <data key="d5">0900a735955381b343f06177c0f84805</data>
+    </edge>
+    <edge source="&quot;ALASKA&quot;" target="&quot;RUSSIAN EMPIRE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Alaska was colonized by the Russian Empire before being sold to the U.S."</data>
+      <data key="d5">997eaa74c8fabd05b57b60fd98aa8bc2</data>
+    </edge>
+    <edge source="&quot;ALASKA&quot;" target="&quot;U.S.&quot;">
+      <data key="d3">2.0</data>
+      <data key="d4">Alaska was purchased from the Russian Empire and was admitted as the 49th state of the U.S. in 1959.</data>
+      <data key="d5">661da5ec697ffd737edca31a4aa13c54,997eaa74c8fabd05b57b60fd98aa8bc2</data>
+    </edge>
+    <edge source="&quot;ALASKA&quot;" target="&quot;JUNEAU&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Juneau is the state capital of Alaska and is significant due to its large area."</data>
+      <data key="d5">997eaa74c8fabd05b57b60fd98aa8bc2</data>
+    </edge>
+    <edge source="&quot;ALASKA&quot;" target="&quot;ANCHORAGE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Anchorage is the most populous city in Alaska, housing about half of the state's population."</data>
+      <data key="d5">997eaa74c8fabd05b57b60fd98aa8bc2</data>
+    </edge>
+    <edge source="&quot;ALASKA&quot;" target="&quot;U.S. ARMED FORCES&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Alaska hosts U.S. Armed Forces bases, which are part of the state's economic framework."</data>
+      <data key="d5">661da5ec697ffd737edca31a4aa13c54</data>
+    </edge>
+    <edge source="&quot;ALASKA&quot;" target="&quot;REPUBLICAN PARTY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Alaska generally supports the Republican Party in national elections."</data>
+      <data key="d5">488a452a1303fc728e5006bc265477a4</data>
+    </edge>
+    <edge source="&quot;UNITED STATES&quot;" target="&quot;CALIFORNIA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"California was ceded to the United States by Mexico in 1848 and is now a state within the U.S."</data>
+      <data key="d5">6a11c807ab7965c11434da540a73a415</data>
+    </edge>
+    <edge source="&quot;CALIFORNIA&quot;" target="&quot;OREGON&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"California borders Oregon to the north."</data>
+      <data key="d5">6a11c807ab7965c11434da540a73a415</data>
+    </edge>
+    <edge source="&quot;CALIFORNIA&quot;" target="&quot;NEVADA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"California borders Nevada to the east."</data>
+      <data key="d5">6a11c807ab7965c11434da540a73a415</data>
+    </edge>
+    <edge source="&quot;CALIFORNIA&quot;" target="&quot;ARIZONA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"California borders Arizona to the east."</data>
+      <data key="d5">6a11c807ab7965c11434da540a73a415</data>
+    </edge>
+    <edge source="&quot;CALIFORNIA&quot;" target="&quot;BAJA CALIFORNIA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"California has an international border with the Mexican state of Baja California to the south."</data>
+      <data key="d5">6a11c807ab7965c11434da540a73a415</data>
+    </edge>
+    <edge source="&quot;CALIFORNIA&quot;" target="&quot;SPANISH EMPIRE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"California was colonized by the Spanish Empire before becoming part of Mexico and later the United States."</data>
+      <data key="d5">6a11c807ab7965c11434da540a73a415</data>
+    </edge>
+    <edge source="&quot;CALIFORNIA&quot;" target="&quot;MEXICO&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"California was part of Mexico before being ceded to the United States in 1848."</data>
+      <data key="d5">6a11c807ab7965c11434da540a73a415</data>
+    </edge>
+    <edge source="&quot;CALIFORNIA&quot;" target="&quot;CALIFORNIA GOLD RUSH&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"The California Gold Rush occurred in California, leading to significant changes within the state."</data>
+      <data key="d5">6a11c807ab7965c11434da540a73a415</data>
+    </edge>
+    <edge source="&quot;CALIFORNIA&quot;" target="&quot;LOS ANGELES&quot;">
+      <data key="d3">3.0</data>
+      <data key="d4">Los Angeles is the most populous city in California, playing a significant role in elevating the state's status as a key player in global trade and entertainment.</data>
+      <data key="d5">04335e3210405a0e5e7e7aee14a12059,50d75f737cb050452bd495a77d9436b5,6a11c807ab7965c11434da540a73a415</data>
+    </edge>
+    <edge source="&quot;CALIFORNIA&quot;" target="&quot;SAN FRANCISCO BAY AREA&quot;">
+      <data key="d3">2.0</data>
+      <data key="d4">The San Francisco Bay Area is a major urban region located within the state of California.</data>
+      <data key="d5">04335e3210405a0e5e7e7aee14a12059,6a11c807ab7965c11434da540a73a415</data>
+    </edge>
+    <edge source="&quot;CALIFORNIA&quot;" target="&quot;SACRAMENTO&quot;">
+      <data key="d3">2.0</data>
+      <data key="d4">Sacramento is the capital city of the state of California.</data>
+      <data key="d5">04335e3210405a0e5e7e7aee14a12059,6a11c807ab7965c11434da540a73a415</data>
+    </edge>
+    <edge source="&quot;CALIFORNIA&quot;" target="&quot;GREATER LOS ANGELES&quot;">
+      <data key="d3">2.0</data>
+      <data key="d4">The Greater Los Angeles area, a major urban region within the state of California, is significant for its role in the U.S. film industry.</data>
+      <data key="d5">04335e3210405a0e5e7e7aee14a12059,50d75f737cb050452bd495a77d9436b5</data>
+    </edge>
+    <edge source="&quot;CALIFORNIA&quot;" target="&quot;SIERRA NEVADA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Sierra Nevada is a mountain range located within California."</data>
+      <data key="d5">04335e3210405a0e5e7e7aee14a12059</data>
+    </edge>
+    <edge source="&quot;CALIFORNIA&quot;" target="&quot;MOJAVE DESERT&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Mojave Desert is part of California's diverse geographical features."</data>
+      <data key="d5">04335e3210405a0e5e7e7aee14a12059</data>
+    </edge>
+    <edge source="&quot;CALIFORNIA&quot;" target="&quot;CENTRAL VALLEY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Central Valley is a significant agricultural area within California."</data>
+      <data key="d5">04335e3210405a0e5e7e7aee14a12059</data>
+    </edge>
+    <edge source="&quot;CALIFORNIA&quot;" target="&quot;CALIFORNIA GENOCIDE&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"California Genocide occurred in the region now known as California."</data>
+      <data key="d5">04335e3210405a0e5e7e7aee14a12059</data>
+    </edge>
+    <edge source="&quot;CALIFORNIA&quot;" target="&quot;HOLLYWOOD&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Hollywood, located in California, is a key contributor to California's global cultural influence through the film industry."</data>
+      <data key="d5">50d75f737cb050452bd495a77d9436b5</data>
+    </edge>
+    <edge source="&quot;CALIFORNIA&quot;" target="&quot;SAN FRANCISCO BAY&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"San Francisco Bay is part of California and contributes to its reputation as a leader in the global technology industry."</data>
+      <data key="d5">50d75f737cb050452bd495a77d9436b5</data>
+    </edge>
+    <edge source="&quot;RUSSIAN EMPIRE&quot;" target="&quot;RUSSIAN AMERICA&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Russian America was established and spanned by the Russian Empire in what is now Alaska."</data>
+      <data key="d5">997eaa74c8fabd05b57b60fd98aa8bc2</data>
+    </edge>
+    <edge source="&quot;RUSSIAN AMERICA&quot;" target="&quot;U.S.&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Russian America was sold to the U.S. in 1867, transitioning the control of the territory."</data>
+      <data key="d5">661da5ec697ffd737edca31a4aa13c54</data>
+    </edge>
+    <edge source="&quot;LOS ANGELES&quot;" target="&quot;HOLLYWOOD&quot;">
+      <data key="d3">1.0</data>
+      <data key="d4">"Hollywood is a neighborhood within Los Angeles, central to its role in the global entertainment industry."</data>
+      <data key="d5">50d75f737cb050452bd495a77d9436b5</data>
+    </edge>
+  </graph>
+</graphml>
